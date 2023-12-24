@@ -25,3 +25,33 @@ x6 = int(input(f"Enter an integer value for x6:{prompt}"))
 x7 = int(input(f"Enter an integer value for x7:{prompt}"))
 
 print(f"The sum of x6 and x7 is {x6 + x7}. That looks about right!")
+
+'''
+Simple Mathematical Operators
+-----------------------------
++   addiiton
+-   sub
+*   mult
+/   non-integer division
+//  integer division
+%   modulo
+**  power
+
+Comparison Operators
+--------------------
+>   greater than
+<   less than
+==  equality
+!=  inequality
+>=  gt or eq
+M=  lt or eq
+
+Logical Operators
+-----------------
+and logical AND
+or  logical OR
+not logical NOT
+
+Assignment Operators
+--------------------
+'''
